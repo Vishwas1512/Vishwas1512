@@ -3,19 +3,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishwas1512&label=Profile%20views&color=0e75b6&style=flat" alt="vishwas1512" /> </p>
 
-- 🔭 I’m currently working on [Phonepe](https://github.com/Vishwas1512/Phonepe_data)
+- 🔭 I’m currently working on [Phonepe Project](https://github.com/Vishwas1512/Phonepe_data)
 
-- 🌱 I’m currently learning **Sci-kit**
+- 🌱 I’m currently learning **Data Science**
 
-- 👯 I’m looking to collaborate on [Swiggy](https://github.com/Vishwas1512/Swiggy_analysis)
+- 👯 I’m looking to collaborate on [Swiggy projects](https://github.com/Vishwas1512/Swiggy_analysis)
 
-- 👨‍💻 My Portfolio [https://kandakatlavishwas8.wixsite.com/my-site-3](https://kandakatlavishwas8.wixsite.com/my-site-3)
+- 👨‍💻 My Portfolio [vishwas portfolio](https://kandakatlavishwas8.wixsite.com/my-site-3)
 
-- 💬 Ask me about **Insights and Data analysis**
+- 💬 Ask me about **Data Science and analytics to find the Insites from the data**
 
 - 📫 How to reach me **Kandakatlavishwas888@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1kytksg4Ul0gY7IVW6PTBNvkxB8Jp65_d/view?usp=sharing](https://drive.google.com/file/d/1kytksg4Ul0gY7IVW6PTBNvkxB8Jp65_d/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1kytksg4Ul0gY7IVW6PTBNvkxB8Jp65_d/view?usp=sharing)
 
 - ⚡ Fun fact **My favorite thing about data is how it can tell a story, even when it's not obvious.**
 
