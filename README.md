@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishwas1512&label=Profile%20views&color=0e75b6&style=flat" alt="vishwas1512" /> </p>
 
-- 🔭 I’m currently working on [Phonepe Project](https://github.com/Vishwas1512/Phonepe_data)
+- 🔭 I’m currently working on [Phonepe Project](https://github.com/Vishwas1512/Phone-Analysis)
 
 - 🌱 I’m currently learning **Data Science**
 
